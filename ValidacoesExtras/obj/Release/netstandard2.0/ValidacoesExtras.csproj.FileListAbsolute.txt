@@ -1,0 +1,9 @@
+C:\Users\luiss\source\repos\DeMaria\ValidacoesExtras\bin\Release\netstandard2.0\ValidacoesExtras.deps.json
+C:\Users\luiss\source\repos\DeMaria\ValidacoesExtras\bin\Release\netstandard2.0\ValidacoesExtras.dll
+C:\Users\luiss\source\repos\DeMaria\ValidacoesExtras\bin\Release\netstandard2.0\ValidacoesExtras.pdb
+C:\Users\luiss\source\repos\DeMaria\ValidacoesExtras\obj\Release\netstandard2.0\ValidacoesExtras.csprojAssemblyReference.cache
+C:\Users\luiss\source\repos\DeMaria\ValidacoesExtras\obj\Release\netstandard2.0\ValidacoesExtras.csproj.CoreCompileInputs.cache
+C:\Users\luiss\source\repos\DeMaria\ValidacoesExtras\obj\Release\netstandard2.0\ValidacoesExtras.AssemblyInfoInputs.cache
+C:\Users\luiss\source\repos\DeMaria\ValidacoesExtras\obj\Release\netstandard2.0\ValidacoesExtras.AssemblyInfo.cs
+C:\Users\luiss\source\repos\DeMaria\ValidacoesExtras\obj\Release\netstandard2.0\ValidacoesExtras.dll
+C:\Users\luiss\source\repos\DeMaria\ValidacoesExtras\obj\Release\netstandard2.0\ValidacoesExtras.pdb
